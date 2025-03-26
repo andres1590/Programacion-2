@@ -1,0 +1,15 @@
+artifact_uri: file:C:/Users/osval/OneDrive/Documents/3. Projectos Visual Studio/Programacion2/Challenges/Challenge1\mlruns/615591251557453794/04e2c8b45f52466fa3d99f56d8e1d667/artifacts
+end_time: 1742933425065
+entry_point_name: ''
+experiment_id: '615591251557453794'
+lifecycle_stage: active
+run_id: 04e2c8b45f52466fa3d99f56d8e1d667
+run_name: Training_Run
+run_uuid: 04e2c8b45f52466fa3d99f56d8e1d667
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742932703764
+status: 3
+tags: []
+user_id: osval

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/andresfelipe/Downloads/Challenge1/mlruns/746533613557273383/45ecbe22d4964c3c87d06926b4147efc/artifacts
+end_time: 1742960474112
+entry_point_name: ''
+experiment_id: '746533613557273383'
+lifecycle_stage: active
+run_id: 45ecbe22d4964c3c87d06926b4147efc
+run_name: luminous-owl-15
+run_uuid: 45ecbe22d4964c3c87d06926b4147efc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742960471144
+status: 3
+tags: []
+user_id: andresfelipe
