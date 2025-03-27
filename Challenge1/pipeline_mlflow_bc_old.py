@@ -9,6 +9,7 @@ import mlflow
 import mlflow.sklearn
 
 # Cargar el archivo
+
 file_path = "/Users/andresfelipe/Documents/Prog2/Programacion-2/Programacion-2/Challenge1/data/breast-cancer-wisconsin.data.csv"
 df = pd.read_csv(file_path)
 

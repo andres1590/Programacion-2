@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/andresfelipe/Programacion-2/mlruns/820486536074772717/8bce2b82fef84ae1a67f54b6fd308fab/artifacts
+end_time: 1743097249542
+entry_point_name: ''
+experiment_id: '820486536074772717'
+lifecycle_stage: active
+run_id: 8bce2b82fef84ae1a67f54b6fd308fab
+run_name: agreeable-wasp-454
+run_uuid: 8bce2b82fef84ae1a67f54b6fd308fab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743097247252
+status: 3
+tags: []
+user_id: andresfelipe

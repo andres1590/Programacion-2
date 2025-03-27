@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/andresfelipe/Programacion-2/mlruns/820486536074772717/79a9bb5cfc9a4ab2a1f2efe9e42bfc36/artifacts
+end_time: 1743097355199
+entry_point_name: ''
+experiment_id: '820486536074772717'
+lifecycle_stage: active
+run_id: 79a9bb5cfc9a4ab2a1f2efe9e42bfc36
+run_name: nimble-snake-908
+run_uuid: 79a9bb5cfc9a4ab2a1f2efe9e42bfc36
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743097352938
+status: 3
+tags: []
+user_id: andresfelipe

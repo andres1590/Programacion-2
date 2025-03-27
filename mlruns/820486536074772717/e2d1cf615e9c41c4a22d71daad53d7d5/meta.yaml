@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/andresfelipe/Programacion-2/mlruns/820486536074772717/e2d1cf615e9c41c4a22d71daad53d7d5/artifacts
+end_time: 1743097085990
+entry_point_name: ''
+experiment_id: '820486536074772717'
+lifecycle_stage: active
+run_id: e2d1cf615e9c41c4a22d71daad53d7d5
+run_name: mysterious-carp-471
+run_uuid: e2d1cf615e9c41c4a22d71daad53d7d5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743097083584
+status: 3
+tags: []
+user_id: andresfelipe

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/andresfelipe/Programacion-2/mlruns/820486536074772717/a7aa5a562ef9438a8b3b76f22781a6f5/artifacts
+end_time: 1743097373896
+entry_point_name: ''
+experiment_id: '820486536074772717'
+lifecycle_stage: active
+run_id: a7aa5a562ef9438a8b3b76f22781a6f5
+run_name: capricious-stoat-544
+run_uuid: a7aa5a562ef9438a8b3b76f22781a6f5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743097371690
+status: 3
+tags: []
+user_id: andresfelipe
